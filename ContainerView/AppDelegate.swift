@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  ContainerView
-//
-//  Created by Eldos Thomas on 13/9/21.
-//
+
 
 import UIKit
 
